@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![codewars](https://www.codewars.com/users/UdjenKL/badges/large)](https://www.codewars.com/users/UdjenKL)
 <h1 align="center">Hi there, I'm Yauhen Klimovich. I study at BSUIR as a software engineer. I develop in the field of Front-end.
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-[![codewars](https://www.codewars.com/users/UdjenKL/badges/large)](https://www.codewars.com/users/UdjenKL) 
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UdjenKL&theme=solarized_dark)
