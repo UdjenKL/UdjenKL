@@ -10,8 +10,7 @@
 
 
 - 🌱 I’m currently learning at BSUIR as a software engineer
-- 📫 How to reach me: udjenKL@icloud.com
-
+- 📫 How to reach me: udjenKL@icloud.com https://udjenkl.github.io/cv/
 
 
 
