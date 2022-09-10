@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![codewars](https://www.codewars.com/users/UdjenKL/badges/large)](https://www.codewars.com/users/UdjenKL) 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UdjenKL&theme=solarized_dark)
