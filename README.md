@@ -10,7 +10,7 @@
 
 
 - 🌱 I’m currently learning at BSUIR as a software engineer
-- 📫 How to reach me: udjenKL@icloud.com https://udjenkl.github.io/cv/
+- 📫 How to reach me: udjenKL@icloud.com https://udjenkl.github.io/CV/
 
 
 [![codewars](https://www.codewars.com/users/rsschool_8a24530ba5810e07/badges/large)](https://www.codewars.com/users/rsschool_8a24530ba5810e07)
