@@ -6,7 +6,6 @@
 
 </h1>
 
-[![codewars](https://www.codewars.com/users/UdjenKL/badges/large)](https://www.codewars.com/users/UdjenKL)
 
 
 - 🌱 I’m currently learning at BSUIR as a software engineer
