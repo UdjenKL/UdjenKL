@@ -9,6 +9,6 @@
 
 
 - 🌱 I’m currently learning at BSUIR as a software engineer
-- 📫 How to reach me: udjenKL@icloud.com https://udjenkl.github.io/rsschool-cv
+- 📫 How to reach me: udjenKL@icloud.com https://udjenkl.github.io/cv/
 
 
