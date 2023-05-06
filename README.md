@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Udjen 👋
 
 <br>
-
+- https://udjenkl.github.io/cv/
 </h1>
 
 -  🍀 I've been an enthusiastic web developer since 2020.
@@ -27,10 +27,9 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' title='Git' width='50px'/>&nbsp;
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' title='Figma' width='50px'/>&nbsp;
 
-<h3>🔗 Connect with me</h3>
+<h3>🔗 Connect with me</h3><br>
+
 - 📫 How to reach me: 
-- udjenKL@icloud.com 
-- https://udjenkl.github.io/cv/
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udjenkl)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UdjenKL)
