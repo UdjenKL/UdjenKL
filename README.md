@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! I'm Udjen 👋
 
 <br>
-- https://udjenkl.github.io/cv/
+
 </h1>
 
 -  🍀 I've been an enthusiastic web developer since 2020.
@@ -40,6 +40,6 @@
 <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGIyZTFiMDc4ZWZiYTYwYTJmYTgxNTRjMWUxMTc5ZTFlMGUxMzk1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif' title='Git' width='300px'/>
 </h1>
 
-
+https://udjenkl.github.io/cv/
 
 
