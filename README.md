@@ -28,6 +28,9 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' title='Figma' width='50px'/>&nbsp;
 
 <h3>🔗 Connect with me</h3>
+- 📫 How to reach me: 
+- udjenKL@icloud.com 
+- https://udjenkl.github.io/cv/
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udjenkl)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/UdjenKL)
@@ -36,19 +39,8 @@
 <br>
 
 <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGIyZTFiMDc4ZWZiYTYwYTJmYTgxNTRjMWUxMTc5ZTFlMGUxMzk1YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif' title='Git' width='300px'/>
-
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/>
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="20"/>
-
-
 </h1>
 
 
-
-- 🌱 I’m currently learning at BSUIR as a software engineer
-- 📫 How to reach me: 
-- udjenKL@icloud.com 
-- https://udjenkl.github.io/cv/
 
 
